@@ -35,4 +35,5 @@ https://drive.google.com/file/d/10zp853wZxocWB2aJUjzDuHjbN0I0LcAb/view?usp=shari
 ## Auteurs
 
 📌 Pierre QUINTIN DE KERCADIO & Florian CROCHET
+
 📅 Année universitaire 2024 - 2025
