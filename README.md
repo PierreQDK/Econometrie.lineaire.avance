@@ -26,9 +26,10 @@ En réponse aux observations, nous proposons des recommandations pour une meille
 
 https://drive.google.com/file/d/10zp853wZxocWB2aJUjzDuHjbN0I0LcAb/view?usp=sharing
 
-Technologies utilisées
+## Langages de programmation
 
 **Langage :** R
+
 **Packages :** tidyverse, ggplot2, MASS, car, AER, PerformanceAnalytics, corrplot, lmtest, EnvStats 
 
 ## Auteurs
