@@ -17,9 +17,13 @@ En réponse aux observations, nous proposons des recommandations pour une meille
 ## Contenu du projet
 
 **Analyse des données :** Exploration descriptive des variables et identification des tendances.
+
 **Statistiques descriptives :** Étude de la distribution des variables qualitatives et quantitatives.
+
 **Corrélations et régressions :** Tests statistiques pour identifier les relations entre variables.
+
 **Modélisation économétrique :** Régressions linéaires multiples et tests de robustesse.
+
 **Prévisions :** Estimation de la moyenne académique selon différents scénarios.
 
 ## Lien vers le dossier complet
